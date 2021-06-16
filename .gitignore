@@ -1,0 +1,5 @@
+Client/JournalManagementSystem/target
+.vscode
+.DS_Store
+*.class
+*.zip
